@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xCAADda436B723dF1AfEBb617f8A50A2501fab987",
+  "SCAN_LINK": "https://cronoscan.com/token/0xcaadda436b723df1afebb617f8a50a2501fab987",
+  "NETWORK": {
+    "NAME": "CRONOS",
+    "SYMBOL": "CRO",
+    "ID": 25
+  },
+  "NFT_NAME": "Whale Waiting",
+  "SYMBOL": "WHAWHA",
+  "MAX_SUPPLY": 420,
+  "WEI_COST": 1,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "CroSea",
+  "MARKETPLACE_LINK": "https://crosea.io/",
+  "SHOW_BACKGROUND": true
+}
